@@ -1,8 +1,7 @@
 .DS_Store
 index.php
-application/config/*
-downloads/*
-uploads/*
+
+
 application/cache/*
 !application/cache/index.html
 
