@@ -96,7 +96,7 @@
 
 				
 				
-				<img src="//kejari-dairi.go.id/img/logo_big.png" width="20%" ><font size="5" color="black" class="blink"><b>SIPAGE</b><br></font>
+				<img src="http://kejari-dairi.go.id/img/logo_big.png" width="20%" ><font size="5" color="black" class="blink"><b>SIPAGE</b><br></font>
 				<font size="3" color="black">Media informasi elekronik</font><br>
 				<font size="5" color="black"><b>Kejaksaan Negeri Sidikalang</b><br></font>
 			
