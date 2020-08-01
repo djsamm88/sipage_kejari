@@ -31,9 +31,9 @@
 		<th width="130px">MULAI</th>
 		<th width="130px">SELESAI</th>
 		<th>TEMPAT</th>		
-		<th>PEJABAT</th>
+		<th>PEJABAT PEMBUKA ACARA</th>
 		<th>PESERTA</th>
-		<th>STATUS</th>
+		
 	</thead>
 	<tbody>
 		
@@ -135,7 +135,7 @@
 			<td>".substr($z->tempat_kegiatan,0,40)."</td>			
 			<td><b>$z->nama_pejabat</b></td>
 			<td>".substr($z->peserta,0,40)."</td>
-			<td style='text-transform: uppercase;'  ><b>$status</b></td>
+			
 		</tr>
 		";
 		}
