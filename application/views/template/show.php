@@ -221,7 +221,7 @@ setInterval(function (){
 			
 			if(e=='0')
 			{
-				$("#info_login").fadeOut().html('<div class="alert alert-danger alert-dismissible"><b></b> NIP atau Kata Sandi salah. Hubungi admin </div>').fadeIn();
+				$("#info_login").fadeOut().html('<div class="alert alert-danger alert-dismissible"><b></b> Username atau Kata Sandi salah. Hubungi admin </div>').fadeIn();
 				
 			}else if(e=='2')
 			{
