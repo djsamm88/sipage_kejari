@@ -120,7 +120,7 @@
 		</div>
 			
 			<div class="col-xs-5">
-				<input type="text" class="form-control" name="nip" id="nip" placeholder="NIP">
+				<input type="text" class="form-control" name="nip" id="nip" placeholder="Username">
 			</div>
 			<div class="col-xs-5">
 				<input type="password" name="password" class="form-control" placeholder="Password">
